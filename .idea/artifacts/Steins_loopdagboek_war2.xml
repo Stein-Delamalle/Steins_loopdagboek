@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Steins_loopdagboek:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Steins_loopdagboek_war2</output-path>
+    <root id="archive" name="Steins_loopdagboek_war.war">
+      <element id="artifact" artifact-name="Steins_loopdagboek:war exploded" />
+    </root>
+  </artifact>
+</component>
